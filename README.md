@@ -1,16 +1,15 @@
-# Título principal
-## Subtítulo
-### Subsección
+# Mi Proyecto
 
-- Elemento 1
-- Elemento 2
+## Descripción
+Aplicación web para gestionar tareas.
 
-**Negrita**
-*Cursiva*
+## Tecnologías
+- HTML
+- CSS
+- JavaScript
 
-Usar el comando `npm install`
+## Instalación
+npm install
 
-```javascript
-function saludar() {
-  console.log("Hola mundo");
-}
+## Uso
+npm start
