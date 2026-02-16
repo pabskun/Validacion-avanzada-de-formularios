@@ -20,4 +20,4 @@ npm start
 [Visitar documentación](https://react.dev)
 [Ir a la sección de instalación](#instalación)
 
-![GitHub stars](https://img.shields.io/github/stars/user/repositorio)
+![GitHub stars](https://github.com/pabskun/Validacion-avanzada-de-formularios)
