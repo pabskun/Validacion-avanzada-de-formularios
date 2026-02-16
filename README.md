@@ -13,3 +13,11 @@ npm install
 
 ## Uso
 npm start
+
+![Captura de la aplicación](./images/demo.png)
+![Demo](https://miweb.com/demo.png)
+
+[Visitar documentación](https://react.dev)
+[Ir a la sección de instalación](#instalación)
+
+![GitHub stars](https://img.shields.io/github/stars/user/repositorio)
