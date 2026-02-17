@@ -262,7 +262,7 @@ Esto mejora significativamente la experiencia de usuario (UX).
 
 ## 👨‍💻 Autor
 
-Proyecto desarrollado por Pablo Monestel con fines académicos para demostrar validación avanzada en frontend moderno.
+Proyecto desarrollado con fines académicos para demostrar validación avanzada en frontend moderno.
 
 ---
 
